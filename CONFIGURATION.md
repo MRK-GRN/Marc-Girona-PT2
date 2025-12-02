@@ -10,16 +10,22 @@
 5. **Creacion de usuarios**
    Para crear nuevos usuarios hay que dirigirse al apartado de usuarios.
    ![](/lista_usuarios)
+   
    Y a cada uno le asignas un nombre de usuario y contraseña
+   
    ![](/usuario1)
-6. **Assignació de rols i permisos**
+   
+7. **Assignació de rols i permisos**
    Diferencia entre editor y solo vista
+   
    ![](/editor_viewer)
-7. **Administració d’arxius**
+   
+9. **Administració d’arxius**
    Contrasenya de link compartit (no obligatori)
    ![](/pw_enforcer)
    ![](/pw_linkcreate)
-8. **Accés des d’una màquina qualsevol de la xarxa**
+   
+10. **Accés des d’una màquina qualsevol de la xarxa**
    Configurat al virtualhost l'acces al servidor i a nextcloud els dominis permesos
    ![](/virtualhost)
    ![](/config)

@@ -12,5 +12,7 @@
    ![](/lista_usuarios)
    Y a cada uno le asignas un nombre de usuario y contraseña
    ![](/usuario1)
-   ![]()
+6. **Assignació de rols i permisos**
+   Diferencia entre editor y solo vista
+   ![](/editor_viewer)
    

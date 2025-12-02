@@ -15,4 +15,11 @@
 6. **Assignació de rols i permisos**
    Diferencia entre editor y solo vista
    ![](/editor_viewer)
-   
+7. **Administració d’arxius**
+   Contrasenya de link compartit (no obligatori)
+   ![](/pw_enforcer)
+   ![](/pw_linkcreate)
+8. **Accés des d’una màquina qualsevol de la xarxa**
+   Configurat al virtualhost l'acces al servidor i a nextcloud els dominis permesos
+   ![](/virtualhost)
+   ![](/config)

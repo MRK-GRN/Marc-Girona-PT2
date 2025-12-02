@@ -1,10 +1,5 @@
 # Nextcloud
+Servidor de Nextcloud en IsardVDI amb acces remot
 
-Instalacion
-
-
-4. Funcionamiento
-
-[capturas]
-
-http://192.168.237.148/index.php/s/MPxC3yDzStYkGAX
+[Installation](/INSTALLATION.md)
+[Configuration](/CONFIGURATION.md)

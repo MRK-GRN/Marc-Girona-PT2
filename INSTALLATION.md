@@ -3,11 +3,8 @@
 1. Configuració del sistema de virtualització (IsardVDI)
    Se crea una maquina virtual con imagen de linux, recursos suficientes y conectado a la red del puig para luego acceder desde los ordenadores fuera de la VM.
 
-2. Instal·lació del gestor d’arxius Nextcloud
-   Descargamos apache, php, y MySQL lo configuramos y luego instalamos Nextcloud.
-   Despues de verificar que se ha instalado correctamente, verificamos que se puede acceder desde el navegador.
+2. Instal·lació de apache, php, y MySQL.
 
-3. Manual de instalacion
 
 # Instalar apache php y MySQL
 
